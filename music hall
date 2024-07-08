@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Nombre - Página Personal</title>
+    <style>
+        /* Estilos generales */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        .container {
+            width: 80%;
+            max-width: 900px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+            text-align: center;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        /* Estilos específicos para secciones */
+        .projects {
+            margin-top: 30px;
+        }
+        .skills {
+            margin-top: 30px;
+        }
+        .contact {
+            margin-top: 30px;
+        }
+        /* Estilos para enlaces */
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Tu Nombre</h1>
+            <h2>Músico</h2>
+        </header>
+        
+        <section class="projects">
+            <h2>Proyectos</h2>
+            <p>Aquí puedes describir tus proyectos musicales más destacados.</p>
+            <ul>
+                <li>Proyecto 1 - Descripción breve</li>
+                <li>Proyecto 2 - Descripción breve</li>
+                <li>Proyecto 3 - Descripción breve</li>
+            </ul>
+        </section>
+        
+        <section class="skills">
+            <h2>Habilidades</h2>
+            <p>Enumera tus habilidades musicales y técnicas.</p>
+            <ul>
+                <li>Habilidad 1</li>
+                <li>Habilidad 2</li>
+                <li>Habilidad 3</li>
+            </ul>
+        </section>
+        
+        <section class="contact">
+            <h2>Contacto</h2>
+            <p>Puedes contactarme a través de los siguientes medios:</p>
+            <ul>
+                <li>Email: tuemail@example.com</li>
+                <li>Teléfono: +1234567890</li>
+                <li>Redes Sociales:
+                    <a href="https://twitter.com/tucuenta" target="_blank">Twitter</a>,
+                    <a href="https://facebook.com/tucuenta" target="_blank">Facebook</a>
+                </li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
