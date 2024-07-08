@@ -1,4 +1,4 @@
-# Página Web Personal de [music hall]
+music hall
 
 Este repositorio contiene el código fuente de mi página web personal, donde comparto información sobre mis proyectos musicales, habilidades y cómo contactarme.
 
